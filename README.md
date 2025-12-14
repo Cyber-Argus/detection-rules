@@ -16,7 +16,7 @@ This repository documents my journey learning detection engineering in public. I
 
 ## Status
 
-🚧 **Active Development** - This is a learning repository. Rules are being developed and tested as I build my homelab and study detection engineering.
+ **Active Development** - This is a learning repository. Rules are being developed and tested as I build my homelab and study detection engineering.
 
 ## Repository Structure
 
